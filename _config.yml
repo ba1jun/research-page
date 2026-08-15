@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 url: "https://ba1jun.github.io"
-baseurl: "/research" # published from the ba1jun/research project repository
+baseurl: "/research-page" # published from the ba1jun/research-page project repository
 
 # Build settings
 markdown: kramdown
